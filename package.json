@@ -23,13 +23,13 @@
 		"build"
 	],
 	"dependencies": {
-		"configstore": "^4.0.0",
+		"configstore": "^5.0.1",
 		"ink": "^2.7.1",
 		"ink-spinner": "^3.0.1",
 		"pastel": "^1.0.3",
-		"phin": "^3.3.0",
+		"phin": "^3.4.1",
 		"prop-types": "^15.7.2",
-		"react": "^16.13.0",
+		"react": "^16.13.1",
 		"uninstall": "0.0.0"
 	}
 }
